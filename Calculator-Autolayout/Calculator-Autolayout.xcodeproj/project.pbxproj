@@ -264,7 +264,7 @@
 				DEVELOPMENT_TEAM = RHBBUXEY37;
 				INFOPLIST_FILE = "Calculator-Autolayout/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Invoker.Calculator-Autolayout";
+				PRODUCT_BUNDLE_IDENTIFIER = Invoker.Calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -277,7 +277,7 @@
 				DEVELOPMENT_TEAM = RHBBUXEY37;
 				INFOPLIST_FILE = "Calculator-Autolayout/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Invoker.Calculator-Autolayout";
+				PRODUCT_BUNDLE_IDENTIFIER = Invoker.Calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
